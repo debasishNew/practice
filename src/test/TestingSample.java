@@ -9,6 +9,8 @@ public class TestingSample  {
 		System.out.println("new commit to .git remote");
 		System.out.println("new commit to .git remote second");
 		System.out.println("new commit to .git remote third");
+		
+		System.out.println("new commit to .git remote project2");
 		int x=12;
 		System.out.println(x<<2);
 	}
