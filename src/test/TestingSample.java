@@ -17,7 +17,7 @@ public class TestingSample  {
 	
 	public static void main(String[] args) throws Exception{
 		
-		System.out.println("new commmit to git");
+		System.out.println("new commit to .git remote");
 		int x=12;
 		System.out.println(x<<2);
 	}
